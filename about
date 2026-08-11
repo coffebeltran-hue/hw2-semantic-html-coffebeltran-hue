@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta
+        name="description"
+        content="Meet the team behind WebDining, a digital food ordering solution for students, staff and professors at Universidad de La Sabana."
+    >
+    <title>About the Team | WebDining</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>WebDining</h1>
+
+        <p>
+            Skip the line. Order smarter.
+        </p>
+
+        <nav aria-label="Main navigation">
+            <ul>
+                <li>
+                    <a href="https://dsaw-2026-2.github.io/hw1-team-readme-and-project-kickoff-jeronimoqume-cloud/">Home</a>
+                </li>
+                <li>
+                    <a href="about.html">About the Team</a>
+                </li>
+                <li>
+                    <a href="https://dsaw-2026-2.github.io/hw1-team-readme-and-project-kickoff-jeronimoqume-cloud/#problem">The Problem</a>
+                </li>
+                <li>
+                    <a href="https://dsaw-2026-2.github.io/hw1-team-readme-and-project-kickoff-jeronimoqume-cloud/#solution">Our Solution</a>
+                </li>
+                <li>
+                    <a href="https://dsaw-2026-2.github.io/hw1-team-readme-and-project-kickoff-jeronimoqume-cloud/#users">Target Users</a>
+                </li>
+                <li>
+                    <a href="https://dsaw-2026-2.github.io/hw1-team-readme-and-project-kickoff-jeronimoqume-cloud/#login">Log In</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <section id="team-intro">
+            <h2>About the Team</h2>
+
+            <p>
+                WebDining is developed by a team of four students from
+                Universidad de La Sabana, combining leadership, design,
+                frontend and backend skills to bring the project to life.
+            </p>
+        </section>
+
+        <section id="team-members">
+            <h2>Meet the Team</h2>
+
+            <article>
+                <h3>Jeronimo Quintero — Team Leader</h3>
+
+                <p>
+                    Jeronimo leads the WebDining team, bringing leadership
+                    experience along with skills in Python, object-oriented
+                    programming and project management.
+                </p>
+            </article>
+
+            <article>
+                <h3>Laura Parra — UI/UX Designer</h3>
+
+                <p>
+                    Laura is responsible for the UI/UX process from start
+                    to finish, including writing user stories, creating
+                    wireframes for app and web ideas, and building
+                    prototypes. She also has a working knowledge of Kotlin
+                    in Android Studio, along with Python and Java.
+                </p>
+            </article>
+
+            <article>
+                <h3>Juan Diego Vargas — Frontend Developer</h3>
+
+                <p>
+                    Juan Diego works on the frontend of WebDining, with a
+                    foundational knowledge of Java and object-oriented
+                    programming.
+                </p>
+            </article>
+
+            <article>
+                <h3>Juan Andres Beltran — Backend Developer</h3>
+
+                <p>
+                    Juan Andres works on the backend of WebDining, with
+                    experience building graphical interfaces in Java, along
+                    with a foundational knowledge of Python and general
+                    HTML.
+                </p>
+            </article>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>
+            WebDining — Universidad de La Sabana
+        </p>
+
+        <p>
+            Project team:
+            Jeronimo Quintero,
+            Laura Sofia Parra,
+            Juan Diego Vargas,
+            Juan Andres Beltran.
+        </p>
+
+        <p>
+            <a href="https://dsaw-2026-2.github.io/hw1-team-readme-and-project-kickoff-jeronimoqume-cloud/">Back to Home</a>
+        </p>
+    </footer>
+
+</body>
+
+</html>
